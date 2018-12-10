@@ -1,2 +1,0 @@
-# FoodFriends
-Created with CodeSandbox
